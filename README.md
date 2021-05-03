@@ -69,7 +69,7 @@ Disini kita mengarahkan ke berkas [CONTRIBUTING.md](./CONTRIBUTING.md) biar lebi
 
 ## Kontributor (opsional)
 
-Ini opsional, tapi bisa menggunakan [all-contributors](https://github.com/all-contributors/all-contributors] biar
+Ini opsional, tapi bisa menggunakan [all-contributors](https://github.com/all-contributors/all-contributors) biar
 lebih lucu atau bisa buat dengan format seperti ini:
 
 - Display Name, [username](https://github.com/username)
