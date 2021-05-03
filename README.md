@@ -97,4 +97,5 @@ Serta tulis project lain yang serupa dengan project ini juga (bila ada):
 
 ## Lisensi
 
-Tulis lisensi yang digunakan disini. Misal: MIT License
+Tulis lisensi yang digunakan disini. Misal: MIT License, dan tautkan ke
+berkas lengkapnya [seperti ini](./LICENSE)
